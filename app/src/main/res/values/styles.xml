@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/Eventose</item>
+    </style>
+
+    <style name="Eventose">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:background">#006F94</item>
+    </style>
+
+</resources>
